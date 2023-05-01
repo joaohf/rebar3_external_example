@@ -124,18 +124,3 @@ Checking rebar.lock:
             [{description,"Google's Snappy compression library"},
              {vsn,"1.1.9"}]},
   0}].
-```
-    $ rebar3 get-deps
-```
-
-```
-    $ rebar3 compile
-```
-
-```
-    $ rebar3 clean
-```
-
-```
-    $ rebar3 tree
-```
